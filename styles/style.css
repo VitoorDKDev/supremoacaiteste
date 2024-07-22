@@ -113,19 +113,19 @@ header{
 }
 
 .destaque-item-icon{
-    width: 85px;
+    width: 90px;
     margin-top: 6px;
     border-radius: 12px;
 }
 
 .destaque-item-name{
     text-transform: lowercase;
-    font-size: 10px;
+    font-size: 12px;
 }
 .destaque-item-value{
     margin-top: 4px;
-    color: rgb(0, 182, 206);
-    font-size: 8px;
+    color: rgb(0, 219, 248);
+    font-size: 10px;
     font-family: 'Outfit';
 }
 
@@ -156,12 +156,12 @@ header{
 .promotion-item-name{
     margin-top: 2px;
     text-transform: lowercase;
-    font-size: 8px;
+    font-size: 10px;
 }
 
 .promotion-item-value{
     color: rgb(0, 182, 206);
-    font-size: 6px;
+    font-size: 8px;
     font-family: 'Outfit';
 }
 
@@ -185,23 +185,23 @@ header{
 }
 
 .product-info{
-    width: 80%;
+    width: 95%;
 }
 
 .product-type{
-    font-size: 12px;
+    font-size: 16px;
     padding-left: 5px;
 }
 
 .product-description{
-    font-size: 6px;
+    font-size: 8px;
     padding-left: 6px;
     margin-top: -2px;
 }
 
 .open-cardapio{
-    width: 14px;
-    padding-left: 60px;
+    width: 25px;
+    padding-left: 20px;
 }
 
 .open-cardapio-button{
