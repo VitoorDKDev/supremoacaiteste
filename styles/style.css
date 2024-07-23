@@ -8,7 +8,7 @@
     --color-text: #190019;
     --color-primary: #2B124C;
     --color-sencondary: #522B5B;
-    --color-online: RED;
+    --color-online: red;
 }
 
 body{
@@ -64,6 +64,7 @@ header{
     padding: 2px 10px;
     border-radius: 20px;
     font-size: 12px;
+    text-transform: uppercase;
 }
 
 .address{
@@ -92,7 +93,7 @@ header{
 
 .destaque{
     background-color: var(--color-sencondary);
-    margin-top: 15px;
+    margin-top: 10px;
     
     width: 100%;
     height: 140px;
@@ -143,14 +144,14 @@ header{
     display: flex;
     flex-direction: column;
     align-items: center;
+    margin-top: 6px;
 }
 
 .promotion-icon{
     height: 100px;
     width: 100%;
     object-fit: cover;
-    margin-top: 6px;
-    border-radius:8px;
+    border-radius: 8px;
 }
 
 .promotion-item-name{
